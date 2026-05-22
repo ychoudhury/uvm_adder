@@ -4,6 +4,14 @@ A SystemVerilog UVM testbench that verifies a 64-bit combinational
 adder. It is a learning project built to practice the standard UVM component
 hierarchy — sequence, driver, monitor, scoreboard, agent, environment, and test.
 
+## Languages Used
+* SystemVerilog
+* UVM Libraries
+
+## Tools Used
+* Synopsys VCS
+* vim
+
 ## Design under test
 
 The DUT ([`adder.sv`](adder.sv)) is a purely combinational adder:
