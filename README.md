@@ -4,11 +4,11 @@ A SystemVerilog UVM testbench that verifies a 64-bit combinational
 adder. It is a learning project built to practice the standard UVM component
 hierarchy — sequence, driver, monitor, scoreboard, agent, environment, and test.
 
-## Languages Used
+## Languages used
 * SystemVerilog
 * UVM Libraries
 
-## Tools Used
+## Tools used
 * Synopsys VCS
 * vim
 
